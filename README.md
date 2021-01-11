@@ -12,7 +12,7 @@ This app allows user to securely create an account, log in, and log back out. Al
 
 ### Dependencies
 
-* bcruptjs
+* bcryptjs
 * express
 * express-session
 * mysql2
